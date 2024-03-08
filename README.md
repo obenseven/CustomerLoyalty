@@ -1,2 +1,2 @@
-# CustomerLoyalty
-Dta Science Project on Customer Loyalty
+# Customer Loyalty
+Data Science Project on Customer Loyalty
